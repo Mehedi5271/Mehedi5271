@@ -1,5 +1,3 @@
-![Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/351159744_638345105008283_6547626666557735230_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeFEY6Z8_J_hbfziBWDqzi7YoQR2suIPUdWhBHay4g9R1ViYj8bTSu9uwGukiU3CHYkzK2R6d_vF5Gv9b_LOXp--&_nc_ohc=Cn_hBaWSmnkAX94_iW5&_nc_ht=scontent.fdac14-1.fna&oh=00_AfABg-EwpSgmBHdbjfl9cyURNegrASHNBK_z2_DB2SiA8g&oe=651B175B)
-
 ### Hi there 👋, I am Mehedi Hassan
 #### Web Developer
 
