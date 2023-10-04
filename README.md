@@ -7,10 +7,6 @@
 
 🌱 I believe in the power of technology to solve real-world problems and I'm always eager to explore new tools and techniques to enhance my skills.
 
-📚 When I'm not coding, you can find me reading tech blogs, experimenting with new coding projects, or sharing my knowledge with the developer community.
-
-🤝 Let's connect and collaborate to make the tech world a better place! Feel free to explore my repositories and reach out for any questions or collaborations.
-
 Happy coding! 🚀
 
 Skills: HTML / CSS / BOOTSTRAP / PHP / LARAVEL / PYTHON 
