@@ -9,7 +9,7 @@
 
 Happy coding! 🚀
 
-Skills: HTML / CSS / BOOTSTRAP / PHP / LARAVEL / PYTHON 
+Skills: HTML / CSS / BOOTSTRAP / JAVASCRIPT / REACT / PHP / LARAVEL  
 
 - 🌱 I’m currently learning Laravel 
 
